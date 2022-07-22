@@ -1,0 +1,2 @@
+# ESP32CAM_WIFI_BASIC
+Pruebas wifi y ESP32CAM
